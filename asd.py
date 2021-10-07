@@ -5,7 +5,6 @@ root.geometry("300x200")
 root.resizable(False, False)
 root.title("HACKED")
 root.attributes("-fullscreen", True)
-root.iconbitmap("favicon.ico")
 
 textout = Label(root,text="" ,font=("roboto", 75))
 
